@@ -1,6 +1,6 @@
 # Breast Cancer Classification using Machine Learning
 
-This project demonstrates how to build a **Breast Cancer Classification System** using **Python** and **Machine Learning**.
+This project demonstrates a **Breast Cancer Classification System** using **Python** and **Machine Learning**.
 
 The objective is to classify tumors into two categories:
 
